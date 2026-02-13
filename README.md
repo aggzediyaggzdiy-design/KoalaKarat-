@@ -13,7 +13,4 @@ I'm building my path to become a Front-End Developer!
 ### ⚡ My Power Level:
 ![nRNYBAkbNSOxUq4CFg](https://github.com/user-attachments/assets/d341cbcc-aafb-455e-a763-7eb07e76045e)
 
-![Goku Power Level]
-
-
 “Power comes in response to a need, not a desire.” — Goku
