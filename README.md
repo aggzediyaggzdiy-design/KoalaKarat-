@@ -11,8 +11,9 @@ I'm building my path to become a Front-End Developer!
 - 🎮 *Current Goal:* Saving my "Pé-de-Meia" for Dragon Ball Z: Kakarot in July!
 
 ### ⚡ My Power Level:
+![nRNYBAkbNSOxUq4CFg](https://github.com/user-attachments/assets/d341cbcc-aafb-455e-a763-7eb07e76045e)
 
 ![Goku Power Level]
-:https://static.wikia.nocookie.net/dragonballfanon/images/e/ec/Goku_lanzando_el_kame_hame_ha.gif/revision/latest?cb=20170609233823&path-prefix=es
+
 
 “Power comes in response to a need, not a desire.” — Goku
